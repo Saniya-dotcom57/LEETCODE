@@ -1,1 +1,5 @@
-#LEETCODE, #stringreverse, #c #vjec #pallindrome
+#LEETCODE
+#stringreverse
+#c
+#vjec
+#pallindrome
